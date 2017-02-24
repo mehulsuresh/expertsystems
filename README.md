@@ -33,12 +33,15 @@ The recommended movie which best suits your needs is: Lion King
  
 ```
 HOW TO RUN:  
+ 
+```
 (clear)  
 Load Buffer from movie.clp in the IDE  
 (reset)  
 (run)  
 Answer the questions as asked providing valid inputs 
-  
+ 
+```  
 
 FILES USED:  
 movie.clp  
